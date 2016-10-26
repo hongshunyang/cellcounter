@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Name=CellCounter
+Comment=Cell Counter
+Exec=cellcounter
+Icon=cellcounter.ico
+Terminal=0
+Type=Application
+Categories=Application;
+
