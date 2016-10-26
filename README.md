@@ -22,7 +22,7 @@
 
 ### Download Link
 
-[support Windows XP+,MACOS 10.8+,Linux](https://bitbucket.org/linora/cellcounter/downloads)
+[support Windows XP+,MACOS 10.6+,Ubuntu12.10+(Linux)](https://bitbucket.org/linora/cellcounter/downloads)
 
 ### Screen Shot
 
