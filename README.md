@@ -7,4 +7,7 @@
 >http://dx.doi.org/10.1155/2014/863564
 
 ### Download Link
-[support Windows XP/7,MACOS 10.8/9,Linux](https://bitbucket.org/linora/cellcounter/downloads)
+[support Windows XP+,MACOS 10.8+,Linux](https://bitbucket.org/linora/cellcounter/downloads)
+
+### Screen Shot
+![Screen Shot](https://github.com/hongshunyang/cellcounter/raw/master/ScreenShot.png)
