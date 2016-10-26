@@ -9,7 +9,7 @@
 ### Dependencies
 
 * QT 4.8
-* Opencv 2.4
+* Opencv 2.4.9
 * Qt Creator 2.x
 
 
